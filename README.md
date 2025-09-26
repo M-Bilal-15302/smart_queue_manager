@@ -1,3 +1,5 @@
+# Smart Queue Manager
+Smart Queue Manager is a mobile-based system designed to simplify queue management in places like clinics, offices, and service centers. Instead of waiting in long lines, users can book tokens remotely, get real-time updates, and receive notifications when it’s their turn. The system also includes an admin panel for staff to manage queues efficiently, reducing crowding and saving valuable time for both users and service providers.
 # smart_queue_awkum
 
 A new Flutter project.
